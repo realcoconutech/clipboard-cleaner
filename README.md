@@ -16,4 +16,4 @@ See the 'LICENSE' file for full details
 <br>
 Coconut Tech™ is a trademark of Coconut Tech.
 <br>
-The names, logo, site wording, and branding may **not** be use without written permission.
+The names, site wording, and branding may **not** be use without written permission.
